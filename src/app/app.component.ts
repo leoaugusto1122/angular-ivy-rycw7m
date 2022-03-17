@@ -28,6 +28,6 @@ export class AppComponent {
 
   onClick(evento) {
     console.log(evento);
-    this.card.titulo = 'Clicou!';
+    this.card.titulo = ' clicou!';
   }
 }
